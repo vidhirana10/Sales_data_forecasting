@@ -1,7 +1,3 @@
-# Sales_data_forecasting
-Here’s a **README** for your GitHub repository:  
-
----
 
 # **Sales Data Forecasting**  
 
